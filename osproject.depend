@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1509683002 source:c:\os\osproject\main.cpp
+	<iostream>
+	<windows.h>
+	"Helper.h"
+	"KeyConstants.h"
+	"Base64.h"
+	"IO.h"
+	"Timer.h"
+	"SendMail.h"
+	"KeybHook.h"
+
+1509674890 c:\os\osproject\helper.h
+	<ctime>
+	<string>
+	<sstream>
+	<fstream>
+
+1509674890 c:\os\osproject\keyconstants.h
+	<string>
+	<map>
+
+1509674890 c:\os\osproject\base64.h
+	<vector>
+	<string>
+
+1509674890 c:\os\osproject\io.h
+	<string>
+	<cstdlib>
+	<fstream>
+	"windows.h"
+	"Helper.h"
+	"Base64.h"
+
+1509674890 c:\os\osproject\timer.h
+	<thread>
+	<chrono>
+
+1509683300 c:\os\osproject\sendmail.h
+	<fstream>
+	<vector>
+	<windows.h>
+	"IO.h "
+	"Timer.h"
+	"Helper.h"
+
+1509674890 c:\os\osproject\keybhook.h
+	<iostream>
+	<fstream>
+	"windows.h"
+	"KeyConstants.h"
+	"Timer.h"
+	"SendMail.h"
+
+1509687786 source:c:\users\sarthak\downloads\osproject\osproject\main.cpp
+	<iostream>
+	<windows.h>
+	"Helper.h"
+	"KeyConstants.h"
+	"Base64.h"
+	"IO.h"
+	"Timer.h"
+	"SendMail.h"
+	"KeybHook.h"
+
+1509687786 c:\users\sarthak\downloads\osproject\osproject\helper.h
+	<ctime>
+	<string>
+	<sstream>
+	<fstream>
+
+1509687786 c:\users\sarthak\downloads\osproject\osproject\keyconstants.h
+	<string>
+	<map>
+
+1509687786 c:\users\sarthak\downloads\osproject\osproject\base64.h
+	<vector>
+	<string>
+
+1509687786 c:\users\sarthak\downloads\osproject\osproject\io.h
+	<string>
+	<cstdlib>
+	<fstream>
+	"windows.h"
+	"Helper.h"
+	"Base64.h"
+
+1509687786 c:\users\sarthak\downloads\osproject\osproject\timer.h
+	<thread>
+	<chrono>
+
+1509687786 c:\users\sarthak\downloads\osproject\osproject\sendmail.h
+	<fstream>
+	<vector>
+	<windows.h>
+	"IO.h "
+	"Timer.h"
+	"Helper.h"
+
+1509687786 c:\users\sarthak\downloads\osproject\osproject\keybhook.h
+	<iostream>
+	<fstream>
+	"windows.h"
+	"KeyConstants.h"
+	"Timer.h"
+	"SendMail.h"
+

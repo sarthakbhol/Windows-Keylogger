@@ -1,0 +1,9 @@
+[03.11.2017 10:33:52]
+Hook Started... Timer started
+
+[03.11.2017 10:34:59]
+Mail was not send! Error code: 259
+
+[03.11.2017 10:34:59]
+<From SendMail> Return Code: 0
+
